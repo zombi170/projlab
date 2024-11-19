@@ -1,0 +1,426 @@
+new Room room1
+new Room room2
+new Room room3
+new Room room4
+new Room room5
+new Room room6
+new Room room7
+new Room room8
+new Room room9
+new Room room10
+new Room room11
+new Room room12
+new Room room13
+new Room room14
+new Room room15
+new Room room16
+new Room room17
+new Room room18
+new Room room19
+new Room room20
+new Room room21
+new Room room22
+new Room room23
+new Room room24
+new Room room25
+new Door d0102
+new Door d0103
+new Door d0104
+new Door d0107
+new Door d0113
+new Door d0206
+new Door d0220
+new Door d0304
+new Door d0405
+new Door d0408
+new Door d0417
+new Door d0423
+new Door d0507
+new Door d0509
+new Door d0517
+new Door d0607
+new Door d0609
+new Door d0611
+new Door d0616
+new Door d0812
+new Door d0820
+new Door d0823
+new Door d0917
+new Door d0921
+new Door d0922
+new Door d1011
+new Door d1015
+new Door d1021
+new Door d1025
+new Door d1116
+new Door d1119
+new Door d1122
+new Door d1214
+new Door d1314
+new Door d1318
+new Door d1320
+new Door d1325
+new Door d1516
+new Door d1519
+new Door d1718
+new Door d1820
+new Door d1921
+new Door d1924
+new Door d2023
+new Door d2425
+setAttribute Room room1 doors d0102
+setAttribute Door d0102 rooms room1
+setAttribute Room room2 doors d0102
+setAttribute Door d0102 rooms room2
+setAttribute Room room1 doors d0103
+setAttribute Door d0103 rooms room3
+setAttribute Room room3 doors d0103
+setAttribute Room room1 doors d0104
+setAttribute Door d0104 rooms room1
+setAttribute Room room4 doors d0104
+setAttribute Door d0104 rooms room4
+setAttribute Room room1 doors d0107
+setAttribute Door d0107 rooms room1
+setAttribute Room room7 doors d0107
+setAttribute Door d0107 rooms room7
+setAttribute Room room1 doors d0113
+setAttribute Door d0113 rooms room1
+setAttribute Room room13 doors d0113
+setAttribute Door d0113 rooms room13
+setAttribute Room room2 doors d0206
+setAttribute Door d0206 rooms room2
+setAttribute Room room6 doors d0206
+setAttribute Door d0206 rooms room6
+setAttribute Room room2 doors d0220
+setAttribute Door d0220 rooms room2
+setAttribute Room room20 doors d0220
+setAttribute Room room3 doors d0304
+setAttribute Door d0304 rooms room3
+setAttribute Room room4 doors d0304
+setAttribute Door d0304 rooms room4
+setAttribute Room room4 doors d0405
+setAttribute Door d0405 rooms room4
+setAttribute Room room5 doors d0405
+setAttribute Door d0405 rooms room5
+setAttribute Room room4 doors d0408
+setAttribute Room room8 doors d0408
+setAttribute Door d0408 rooms room8
+setAttribute Room room4 doors d0417
+setAttribute Door d0417 rooms room4
+setAttribute Room room17 doors d0417
+setAttribute Door d0417 rooms room17
+setAttribute Room room4 doors d0423
+setAttribute Door d0423 rooms room4
+setAttribute Room room23 doors d0423
+setAttribute Door d0423 rooms room23
+setAttribute Room room5 doors d0507
+setAttribute Door d0507 rooms room5
+setAttribute Room room7 doors d0507
+setAttribute Door d0507 rooms room7
+setAttribute Room room5 doors d0509
+setAttribute Door d0509 rooms room5
+setAttribute Room room9 doors d0509
+setAttribute Door d0509 rooms room9
+setAttribute Room room5 doors d0517
+setAttribute Door d0517 rooms room5
+setAttribute Room room17 doors d0517
+setAttribute Door d0517 rooms room17
+setAttribute Room room6 doors d0607
+setAttribute Door d0607 rooms room6
+setAttribute Room room7 doors d0607
+setAttribute Door d0607 rooms room7
+setAttribute Room room6 doors d0609
+setAttribute Door d0609 rooms room6
+setAttribute Room room9 doors d0609
+setAttribute Door d0609 rooms room9
+setAttribute Room room6 doors d0611
+setAttribute Door d0611 rooms room6
+setAttribute Room room11 doors d0611
+setAttribute Door d0611 rooms room11
+setAttribute Room room6 doors d0616
+setAttribute Door d0616 rooms room6
+setAttribute Room room16 doors d0616
+setAttribute Door d0616 rooms room16
+setAttribute Room room8 doors d0812
+setAttribute Door d0812 rooms room8
+setAttribute Room room12 doors d0812
+setAttribute Door d0812 rooms room12
+setAttribute Room room8 doors d0820
+setAttribute Door d0820 rooms room8
+setAttribute Room room20 doors d0820
+setAttribute Door d0820 rooms room20
+setAttribute Room room8 doors d0823
+setAttribute Door d0823 rooms room8
+setAttribute Room room23 doors d0823
+setAttribute Door d0823 rooms room23
+setAttribute Room room9 doors d0917
+setAttribute Room room17 doors d0917
+setAttribute Door d0917 rooms room17
+setAttribute Room room9 doors d0921
+setAttribute Door d0921 rooms room9
+setAttribute Room room21 doors d0921
+setAttribute Door d0921 rooms room21
+setAttribute Room room9 doors d0922
+setAttribute Door d0922 rooms room9
+setAttribute Room room22 doors d0922
+setAttribute Door d0922 rooms room22
+setAttribute Room room10 doors d1011
+setAttribute Door d1011 rooms room10
+setAttribute Room room11 doors d1011
+setAttribute Door d1011 rooms room11
+setAttribute Room room10 doors d1015
+setAttribute Door d1015 rooms room10
+setAttribute Room room15 doors d1015
+setAttribute Door d1015 rooms room15
+setAttribute Room room10 doors d1021
+setAttribute Door d1021 rooms room10
+setAttribute Room room21 doors d1021
+setAttribute Door d1021 rooms room21
+setAttribute Room room10 doors d1025
+setAttribute Door d1025 rooms room10
+setAttribute Room room25 doors d1025
+setAttribute Door d1025 rooms room25
+setAttribute Room room11 doors d1116
+setAttribute Door d1116 rooms room11
+setAttribute Room room16 doors d1116
+setAttribute Door d1116 rooms room16
+setAttribute Room room11 doors d1119
+setAttribute Door d1119 rooms room11
+setAttribute Room room19 doors d1119
+setAttribute Door d1119 rooms room19
+setAttribute Room room11 doors d1122
+setAttribute Door d1122 rooms room11
+setAttribute Room room22 doors d1122
+setAttribute Room room12 doors d1214
+setAttribute Door d1214 rooms room12
+setAttribute Room room14 doors d1214
+setAttribute Room room13 doors d1314
+setAttribute Door d1314 rooms room13
+setAttribute Room room14 doors d1314
+setAttribute Door d1314 rooms room14
+setAttribute Room room13 doors d1318
+setAttribute Door d1318 rooms room13
+setAttribute Room room18 doors d1318
+setAttribute Door d1318 rooms room18
+setAttribute Room room13 doors d1320
+setAttribute Door d1320 rooms room13
+setAttribute Room room20 doors d1320
+setAttribute Door d1320 rooms room20
+setAttribute Room room13 doors d1325
+setAttribute Door d1325 rooms room13
+setAttribute Room room25 doors d1325
+setAttribute Door d1325 rooms room25
+setAttribute Room room15 doors d1516
+setAttribute Door d1516 rooms room15
+setAttribute Room room16 doors d1516
+setAttribute Door d1516 rooms room16
+setAttribute Room room15 doors d1519
+setAttribute Door d1519 rooms room15
+setAttribute Room room19 doors d1519
+setAttribute Door d1519 rooms room19
+setAttribute Room room17 doors d1718
+setAttribute Door d1718 rooms room17
+setAttribute Room room18 doors d1718
+setAttribute Door d1718 rooms room18
+setAttribute Room room18 doors d1820
+setAttribute Door d1820 rooms room18
+setAttribute Room room20 doors d1820
+setAttribute Room room19 doors d1921
+setAttribute Room room21 doors d1921
+setAttribute Door d1921 rooms room21
+setAttribute Room room19 doors d1924
+setAttribute Door d1924 rooms room19
+setAttribute Room room24 doors d1924
+setAttribute Door d1924 rooms room24
+setAttribute Room room20 doors d2023
+setAttribute Door d2023 rooms room20
+setAttribute Room room23 doors d2023
+setAttribute Door d2023 rooms room23
+setAttribute Room room24 doors d2425
+setAttribute Room room25 doors d2425
+setAttribute Door d2425 rooms room25
+setAttribute Room room2 gassed true
+setAttribute Room room3 gassed true
+setAttribute Room room5 gassed true
+setAttribute Room room7 gassed true
+setAttribute Room room11 gassed true
+setAttribute Room room13 gassed true
+setAttribute Room room17 gassed true
+setAttribute Room room19 gassed true
+setAttribute Room room23 gassed true
+setAttribute Room room4 cursed true
+setAttribute Room room16 cursed true
+setAttribute Room room20 cursed true
+setAttribute Room room24 cursed true
+setAttribute Door d0417 visibility false
+setAttribute Door d0423 visibility false
+setAttribute Door d0616 visibility false
+setAttribute Door d2023 visibility false
+setAttribute Door d1320 visibility false
+setAttribute Door d2425 visibility false
+new Ruler ruler
+new Camembert cam1
+new Camembert cam2
+new Camembert cam3
+new Camembert cam4
+new Camembert cam5
+new Camembert cam6
+new Camembert cam7
+new Camembert cam8
+new Mask mask1
+new Mask mask2
+new Mask mask3
+new Mask mask4
+new Mask mask5
+new Mask mask6
+new Mask mask7
+new Mask mask8
+new Sponge sponge1
+new Sponge sponge2
+new Sponge sponge3
+new Sponge sponge4
+new Sponge sponge5
+new Sponge sponge6
+new Sponge sponge7
+new Sponge sponge8
+new TVSZ tvsz1
+new TVSZ tvsz2
+new TVSZ tvsz3
+new TVSZ tvsz4
+new TVSZ tvsz5
+new TVSZ tvsz6
+new TVSZ tvsz7
+new TVSZ tvsz8
+new TVSZ tvsz9
+new Mug mug1
+new Mug mug2
+new Mug mug3
+new Mug mug4
+new Mug mug5
+new Mug mug6
+new Mug mug7
+new Mug mug8
+new Mug mug9
+new Transistor tr1
+new Transistor tr2
+new Transistor tr3
+new Transistor tr4
+new Transistor tr5
+new Transistor tr6
+new Transistor tr7
+new Transistor tr8
+new Transistor tr9
+new Transistor tr10
+new Freshener fres1
+new Freshener fres2
+new Freshener fres3
+new Freshener fres4
+new Freshener fres5
+new Freshener fres6
+new Freshener fres7
+new Freshener fres8
+new FakeTVSZ ftvsz1
+new FakeTVSZ ftvsz2
+new FakeTVSZ ftvsz3
+new FakeMask fmask1
+new FakeMask fmask2
+new FakeMask fmask3
+new FakeRuler fru1
+new FakeRuler fru2
+new FakeRuler fru3
+setAttribute Room room1 items cam1
+setAttribute Room room1 items tvsz1
+setAttribute Room room1 items tr1
+setAttribute Room room1 items fru1
+setAttribute Room room2 items mask1
+setAttribute Room room2 items fres1
+setAttribute Room room2 items sponge1
+setAttribute Room room3 items mug1
+setAttribute Room room3 items fres2
+setAttribute Room room3 items fmask1
+setAttribute Room room4 items cam2
+setAttribute Room room4 items tvsz2
+setAttribute Room room5 items fres3
+setAttribute Room room5 items tr2
+setAttribute Room room5 items sponge8
+setAttribute Room room5 items ftvsz1
+setAttribute Room room6 items mug2
+setAttribute Room room6 items cam3
+setAttribute Room room6 items tr3
+setAttribute Room room7 items tvsz3
+setAttribute Room room7 items sponge2
+setAttribute Room room7 items fru2
+setAttribute Room room8 items mask2
+setAttribute Room room8 items mug8
+setAttribute Room room9 items fres4
+setAttribute Room room9 items tr4
+setAttribute Room room10 items mug3
+setAttribute Room room10 items tvsz4
+setAttribute Room room11 items cam4
+setAttribute Room room11 items sponge3
+setAttribute Room room11 items ftvsz2
+setAttribute Room room12 items mask8
+setAttribute Room room12 items tr5
+setAttribute Room room13 items cam5
+setAttribute Room room13 items fru3
+setAttribute Room room14 items mug7
+setAttribute Room room14 items tvsz5
+setAttribute Room room14 items ruler
+setAttribute Room room14 items sponge4
+setAttribute Room room15 items mask3
+setAttribute Room room15 items fres5
+setAttribute Room room15 items tr6
+setAttribute Room room16 items mug4
+setAttribute Room room16 items sponge7
+setAttribute Room room17 items tvsz9
+setAttribute Room room17 items fmask2
+setAttribute Room room18 items mask7
+setAttribute Room room18 items cam6
+setAttribute Room room18 items tvsz6
+setAttribute Room room18 items tr7
+setAttribute Room room19 items mug5
+setAttribute Room room19 items fres6
+setAttribute Room room19 items sponge5
+setAttribute Room room19 items ftvsz3
+setAttribute Room room20 items mask4
+setAttribute Room room21 items cam7
+setAttribute Room room21 items tvsz8
+setAttribute Room room21 items tr8
+setAttribute Room room22 items mug6
+setAttribute Room room22 items tr9
+setAttribute Room room22 items sponge6
+setAttribute Room room23 items mask6
+setAttribute Room room23 items fres7
+setAttribute Room room23 items tvsz7
+setAttribute Room room24 items mug9
+setAttribute Room room24 items cam8
+setAttribute Room room24 items tr10
+setAttribute Room room24 items fmask3
+setAttribute Room room25 items mask5
+setAttribute Room room25 items fres8
+new Building building 
+setAttribute Building building rooms room1
+setAttribute Building building rooms room2
+setAttribute Building building rooms room3
+setAttribute Building building rooms room4
+setAttribute Building building rooms room5
+setAttribute Building building rooms room6
+setAttribute Building building rooms room7
+setAttribute Building building rooms room8
+setAttribute Building building rooms room9
+setAttribute Building building rooms room10
+setAttribute Building building rooms room11
+setAttribute Building building rooms room12
+setAttribute Building building rooms room13
+setAttribute Building building rooms room14
+setAttribute Building building rooms room15
+setAttribute Building building rooms room16
+setAttribute Building building rooms room17
+setAttribute Building building rooms room18
+setAttribute Building building rooms room19
+setAttribute Building building rooms room20
+setAttribute Building building rooms room21
+setAttribute Building building rooms room22
+setAttribute Building building rooms room23
+setAttribute Building building rooms room24
+setAttribute Building building rooms room25

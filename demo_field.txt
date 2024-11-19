@@ -1,0 +1,51 @@
+new Room room1
+new Room room2
+new Room room3
+new Room room4
+new Room room5
+new Door d0103
+new Door d0104
+new Door d0203
+new Door d0405
+setAttribute Room room1 doors d0103
+setAttribute Door d0103 rooms room1
+setAttribute Room room3 doors d0103
+setAttribute Door d0103 rooms room3
+setAttribute Room room1 doors d0104
+setAttribute Door d0104 rooms room1
+setAttribute Room room4 doors d0104
+setAttribute Door d0104 rooms room4
+setAttribute Room room2 doors d0203
+setAttribute Door d0203 rooms room2
+setAttribute Room room3 doors d0203
+setAttribute Door d0203 rooms room3
+setAttribute Room room4 doors d0405
+setAttribute Door d0405 rooms room4
+setAttribute Room room5 doors d0405
+setAttribute Door d0405 rooms room5
+new Ruler ruler
+new Camembert cam
+new Mask mask
+new Sponge sponge
+new TVSZ tvsz
+new Mug mug
+new Transistor tr1
+new Transistor tr2
+new Freshener fres
+new FakeRuler ruF
+setAttribute Room room1 items ruler
+setAttribute Room room1 items cam
+setAttribute Room room1 items mask
+setAttribute Room room1 items sponge
+setAttribute Room room1 items tvsz
+setAttribute Room room1 items mug
+setAttribute Room room1 items tr1
+setAttribute Room room1 items tr2
+setAttribute Room room1 items fres
+setAttribute Room room1 items ruF
+new Building building 
+setAttribute Building building rooms room1
+setAttribute Building building rooms room2
+setAttribute Building building rooms room3
+setAttribute Building building rooms room4
+setAttribute Building building rooms room5
